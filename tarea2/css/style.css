@@ -1,0 +1,15 @@
+body{
+	text-align: center;
+	background-color:rgba(12, 182, 141, 0.97);
+	width: 750px;
+	margin: auto;
+}
+
+#segundo{
+	color:yellow;
+}
+
+ul{
+	font-family: "Arial";
+	font-size: 25px;
+}
